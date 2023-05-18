@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <Sidebar />
-      <main>
+      <main className='main'>
         <Home />
         <About />
         <Services />

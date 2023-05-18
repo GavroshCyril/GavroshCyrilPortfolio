@@ -6,6 +6,7 @@
   --text-color: hsl(244, 16%, 43%);
   --body-color: hsl(258, 60%, 98%);
   --container-color: #FFF;
+  --color--orange: #ffad31;
 
 
   /* .5rem = 8px ||  rem = 16px*/
@@ -31,7 +32,7 @@
     --h2-font-size: 1.25rem;
     --h3-font-size: 1rem;
     --normal-font-size: 0.938rem;
-    --small-fontsize: 0.813rem;
+    --small-font-size: 0.813rem;
     --smaller-font-size: 0.75rem;
   }
 }
